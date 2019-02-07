@@ -1,0 +1,106 @@
+.pre_header{
+    font-size: 2em;
+    font-weight: bold;
+    color: coral;
+}
+.pre_toggle{
+    color: grey;
+}
+.pre_interactive{
+    color:green;
+}
+.pre_active{
+    color:brown;
+}
+.pre_hbtn{
+    width:100%;
+    height: 80%;
+    font-size: 3em;
+    font-weight: bold;
+    font-kerning:  none;
+    color:brown;
+}
+.pre_btnH{
+    width: 100%;
+    height: 20%;
+    font-size: 1.5em;
+}
+.pre_icell{
+    width:98%;
+    height: 98%;
+    margin:1px;
+
+}
+.pre_cell1{
+    float:left;
+    width:50%;
+    height: 18%;
+}
+.pre_cell2{
+    float:left;
+    width:50%;
+    height: 18%;
+}
+
+.pre_cell3{
+    float:left;
+    width:50%;
+    height: 25%;
+}
+
+.pre_cell4{
+    float:left;
+    width:50%;
+    height: 15%;
+}
+
+.pre_row4{
+    float:left;
+    width:100%;
+    height: 15%;
+}
+
+.pre_ems_header{
+    float:left;
+    width:100%;
+    height: 20%;
+    font-size: 1.5em;
+}
+
+.pre_ems_item{
+    float:left;
+    width:48%;
+    height: 100%;
+    margin-left: 10px;
+}
+
+.pre_ems_dis{
+    color:grey;
+}
+
+.pre_ems_en{
+    color:brown;
+}
+
+.pre_ems_icont{
+    float:left;
+    width:100%;
+    height: 60%;
+    border:1px dashed grey;
+    margin:3px;
+    padding: 3px;
+}
+
+.pre_em_mode{
+    float:left;
+    width:98%;
+    height: 98%;
+    margin: 1px;
+}
+
+.pre_ems_cont{
+    float:left;
+    width:100%;
+    height: 18%;
+
+}
